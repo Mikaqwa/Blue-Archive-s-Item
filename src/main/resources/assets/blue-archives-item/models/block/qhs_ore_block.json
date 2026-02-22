@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blue-archives-item:block/qhs_ore_block"
+  }
+}

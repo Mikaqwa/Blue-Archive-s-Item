@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "blue-archives-item:qhs_ore_block"
+  },
+  "result": "blue-archives-item:qhs",
+  "experience": 1.0,
+  "cookingtime": 150
+}

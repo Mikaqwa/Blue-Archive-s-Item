@@ -2,5 +2,7 @@
   "item.blue-archives-item.qhs": "青辉石",
   "item.blue-archives-item.qhs_block": "青辉石块",
   "block.blue-archives-item.qhs_block": "青辉石块",
+  "item.blue-archives-item.qhs_ore_block": "青辉石矿石",
+  "block.blue-archives-item.qhs_ore_block": "青辉石矿石",
   "itemgroup.blue_archive_group": "蔚蓝档案的物品"
 }

@@ -23,6 +23,7 @@ public class ModItemGroups {
                         // 添加物品
                         entries.add(ModItems.QHS);
                         entries.add(ModBlocks.QHS_BLOCK);
+                        entries.add(ModBlocks.QHS_ORE_BLOCK);
                         // entries.add(ModItems.OTHER_ITEM);
                     }).build());
 

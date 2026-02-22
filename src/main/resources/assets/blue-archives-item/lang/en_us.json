@@ -2,5 +2,7 @@
   "item.blue-archives-item.qhs": "Pyroxene",
   "item.blue-archives-item.qhs_block": "Block of Pyroxene",
   "block.blue-archives-item.qhs_block": "Block of Pyroxene",
+  "item.blue-archives-item.qhs_ore_block": "Block of Pyroxene Ore",
+  "block.blue-archives-item.qhs_ore_block": "Block of Pyroxene Ore",
   "itemgroup.blue_archive_group": "Blue Archive's Items"
 }
