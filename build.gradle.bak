@@ -22,7 +22,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"blue_archives_item" {
+		"blue-archives-item" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}

@@ -17,4 +17,4 @@ maven_group=com.bluearchivesitem
 archives_base_name=blue-archives-item
 
 # Dependencies
-f+abric_api_version=0.92.7+1.20.1
+fabric_api_version=0.92.7+1.20.1

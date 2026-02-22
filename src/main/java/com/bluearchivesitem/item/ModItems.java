@@ -8,17 +8,22 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModItems {
-	// 青辉石 item id: qhs
-	public static final Item QHS = new Item(new FabricItemSettings());
+    // 1. 定义物品：青辉石
+    // 提示：1.20.1 中 FabricItemSettings 是完全没问题的
+    public static final Item QHS = new Item(new FabricItemSettings());
 
-	public static void registerItems() {
-		registerItem("qhs", QHS);
-	}
+    // 2. 统一注册方法
+    public static void registerItems() {
+        // 建议在这里打印一条日志，方便在控制台确认物品是否注册成功
+        BlueArchivesItem.LOGGER.info("Registering Mod Items for " + BlueArchivesItem.MOD_ID);
+        
+        registerItem("qhs", QHS);
+    }
 
-	// 注册物品工具方法
-	private static Item registerItem(String name, Item item) {
-		return Registry.register(Registries.ITEM,
-				new Identifier(BlueArchivesItem.MOD_ID, name),
-				item);
-	}
+    // 3. 辅助注册工具
+    private static Item registerItem(String name, Item item) {
+        return Registry.register(Registries.ITEM, 
+                new Identifier(BlueArchivesItem.MOD_ID, name), 
+                item);
+    }
 }

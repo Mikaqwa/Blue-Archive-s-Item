@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class BlueArchivesItem implements ModInitializer {
-	public static final String MOD_ID = "blue-archives-item";
+	public static final String MOD_ID = "blue_archives_item";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override
