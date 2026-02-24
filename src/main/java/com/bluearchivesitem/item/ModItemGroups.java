@@ -22,6 +22,8 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         // 添加物品
                         entries.add(ModItems.QHS);
+                        entries.add(ModItems.QHS_PICKAXE);
+
                         entries.add(ModBlocks.QHS_BLOCK);
                         entries.add(ModBlocks.QHS_ORE_BLOCK);
                         // entries.add(ModItems.OTHER_ITEM);
