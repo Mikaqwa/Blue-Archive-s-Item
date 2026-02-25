@@ -4,5 +4,7 @@
   "block.blue_archives_item.qhs_block": "Block of Pyroxene",
   "item.blue_archives_item.qhs_ore_block": "Block of Pyroxene Ore",
   "block.blue_archives_item.qhs_ore_block": "Block of Pyroxene Ore",
+  "item.blue_archives_item.qhs_pickaxe": "Pyroxene Pickaxe",
+  "item.blue_archives_item.qhs_axe": "Pyroxene Axe",
   "itemgroup.blue_archives_group": "Blue Archive's Items"
 }

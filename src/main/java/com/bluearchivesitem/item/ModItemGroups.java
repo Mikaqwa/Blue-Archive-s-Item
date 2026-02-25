@@ -20,13 +20,15 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.QHS)) // 物品栏图标
                     .displayName(Text.translatable("itemgroup.blue_archives_group")) // 物品栏名字
                     .entries((displayContext, entries) -> {
-                        // 添加物品
-                        entries.add(ModItems.QHS);
-                        entries.add(ModItems.QHS_PICKAXE);
-
+                        //添加方块注册
                         entries.add(ModBlocks.QHS_BLOCK);
                         entries.add(ModBlocks.QHS_ORE_BLOCK);
-                        // entries.add(ModItems.OTHER_ITEM);
+                        //entries.add(ModItems.OTHER_ITEM);
+                        // 添加物品注册
+                        entries.add(ModItems.QHS);
+                        entries.add(ModItems.QHS_PICKAXE);
+                        entries.add(ModItems.QHS_AXE);
+                        
                     }).build());
 
     public static void registerItemGroups() {

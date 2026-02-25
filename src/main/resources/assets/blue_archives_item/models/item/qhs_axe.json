@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "blue_archives_item:item/qhs_axe"
+  }
+}

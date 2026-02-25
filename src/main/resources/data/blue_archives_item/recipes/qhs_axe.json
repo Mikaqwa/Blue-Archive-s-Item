@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ##",
+    " S#",
+    " S "
+  ],
+  "key": {
+    "#": {
+      "item": "blue_archives_item:qhs"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "blue_archives_item:qhs_axe",
+    "count": 1
+  }
+}
