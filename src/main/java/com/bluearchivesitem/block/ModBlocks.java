@@ -39,7 +39,7 @@ public class ModBlocks {
     // 方块：青辉石块
     public static final Block QHS_BLOCK = new Block(FabricBlockSettings.copyOf(Blocks.DIAMOND_BLOCK)
             .requiresTool()
-            .strength(3.5f, 28.5f)//666这个青辉石块是防爆混凝土
+            .strength(3.5f, 25.0f)//666这个青辉石块是防爆混凝土
             .sounds(BlockSoundGroup.AMETHYST_BLOCK)
             .nonOpaque());
     public static final Block QHS_ORE_BLOCK = new Block(FabricBlockSettings.copyOf(Blocks.DIAMOND_ORE)
