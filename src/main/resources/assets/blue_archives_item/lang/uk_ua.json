@@ -1,0 +1,14 @@
+{
+  "item.blue_archives_item.qhs": "Піроксен",
+  "item.blue_archives_item.qhs_block": "Блок піроксену",
+  "block.blue_archives_item.qhs_block": "Блок піроксену",
+  "item.blue_archives_item.qhs_ore_block": "Піроксенова руда",
+  "block.blue_archives_item.qhs_ore_block": "Піроксенова руда",
+  "item.blue_archives_item.qhs_pickaxe": "Піроксенове кайло",
+  "item.blue_archives_item.qhs_axe": "Піроксенова сокира",
+  "item.blue_archives_item.qhs_sword": "Піроксеновий меч",
+  "item.blue_archives_item.qhs_shovel": "Піроксенова лопата",
+  
+  "item.blue_archives_item.qhs_hoe": "Піроксенова мотика",
+  "itemgroup.blue_archives_group": "Предмети Blue Archive"
+}
